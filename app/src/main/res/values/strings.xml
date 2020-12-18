@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Application1</string>
+    <string name="BulletBillText">Another one bits the dust!</string>
+    <string name="conditions">By checking the following checkbox you hearby agree to the terms and conditions of this class. The use of your time in this class is subject to the following terms of use: 1) Using each 45 minutes to the fullest by using and exercising your brain. 2) Showing initiative by finding more info on your own and completing your assignments on a timely manner. 3) Actively participating in lesson activities.</string>
+    <string name="agree">I agree with conditions</string>
+</resources>
